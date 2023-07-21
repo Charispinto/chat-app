@@ -5,7 +5,6 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBQzp0dO5v6zah-VV0-5V7HTCcWutgNb-k",
   authDomain: "instantchat-7342c.firebaseapp.com",
   projectId: "instantchat-7342c",
   storageBucket: "instantchat-7342c.appspot.com",
